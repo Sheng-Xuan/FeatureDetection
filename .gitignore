@@ -1,0 +1,13 @@
+openCVLibrary343/
+app/src/main/jniLibs/
+app/build/
+app/.externalNativeBuild/
+.idea/
+.gradle/
+gradle/
+local.properties
+import-summary.txt
+settings.gradle
+gradlew.bat
+gradlew
+gradle.properties

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FeatureDetection</string>
+    <string name="request_permission">Camera permission is required</string>
+    <string name="exceed_threshold">Too many features</string>
+</resources>
